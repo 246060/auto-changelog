@@ -1,13 +1,13 @@
 {
   "name": "auto-changelog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/blackcocoon/auto-changelog.git",
   "author": "blackcocoon <42939960+blackcocoon@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
-    "release":"standard-version"
+    "release": "standard-version"
   },
   "devDependencies": {
     "standard-version": "^9.3.1"
